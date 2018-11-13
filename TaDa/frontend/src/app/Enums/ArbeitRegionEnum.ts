@@ -1,7 +1,7 @@
 export enum ArbeitRegionEnum {
-    School = 'School',
-    SNUStation = 'SNUStation',
-    Nokdu = 'Nokdu',
-    Nakdae = 'Nakdae',
-    Extra = 'Extra'
+    School = '교내',
+    SNUStation = '설입',
+    Nokdu = '녹두',
+    Nakdae = '낙성대',
+    Extra = '기타'
 }
